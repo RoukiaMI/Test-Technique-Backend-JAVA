@@ -1,6 +1,6 @@
 package com.rest.testTechnique.controller;
 
-package com.rest.testTechnique.controller;
+
 
 import java.util.List;
 
@@ -22,6 +22,7 @@ import lombok.AllArgsConstructor;
 
 @RestController
 @RequestMapping("/api/v1/Inventaire")
+
 @AllArgsConstructor
 public class InventaireController {
 

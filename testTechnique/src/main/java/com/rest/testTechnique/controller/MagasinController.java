@@ -8,6 +8,8 @@ import com.rest.testTechnique.modele.Magasin;
 import com.rest.testTechnique.service.MagasinService;
 
 import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+
 import lombok.AllArgsConstructor;
 @RestController
 @RequestMapping("/api/v1/Magasin")
